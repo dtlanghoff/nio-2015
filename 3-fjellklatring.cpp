@@ -80,4 +80,5 @@ int main() {
     r = max(r, difficulty[dest[i]]);
 
   cout << r << endl;
+  return 0;
 }
